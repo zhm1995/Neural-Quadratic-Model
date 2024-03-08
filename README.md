@@ -2,7 +2,9 @@
 
 ## Requirements: 
 Python 3
+
 pytorch==1.13.0
+
 torchvision==0.14.0
 
 # Paper 
